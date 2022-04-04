@@ -1,0 +1,5 @@
+name: Theres_Sand_In_Mi_Pants
+version: '${project.version}'
+main: com.sandbox.theres_sand_in_mi_pants.Theres_Sand_In_Mi_Pants
+api-version: 1.18
+description: I made sand cakes.
